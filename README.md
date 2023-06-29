@@ -3,7 +3,7 @@ A data analysis project using PYTHON to analyze data from an online Grocery Bask
 ## OBJECTIVES
 Clean and merge four data sets: orders, products, department, and customer data.
 
-Analyze the data to answer questions from marketing and sales teams (for example, busiest times of day,highest grossing days of the week, most loyal customers, etc.).
+Analyze the data to answer questions from marketing and sales teams (for example, busiest time of day,highest grossing days of the week, most loyal customers, etc.).
 
 Analyze the data to discover differences in user's ordering habits based various characteristics (such as region, income, loyalty status, etc.).
 
